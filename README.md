@@ -1,4 +1,4 @@
-# Simula-o-de-Processos
+# Simulador-de-Processos
 Simulação de Processos a partir da modelagem do mesmo em Petri Net
 
 Esse projeto foi desenvolvido durante o desenvolvimento de uma pesquisa cientifica sobre o tema de “AMBIENTE DE SIMULAÇÃO PARA ANÁLISE DE DESEMPENHO DE SISTEMAS INDUSTRIAIS UTILIZANDO MINERAÇÃO DE PROCESSOS E REDES BAYESIANAS”. 
