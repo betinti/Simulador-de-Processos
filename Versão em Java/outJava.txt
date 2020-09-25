@@ -1,0 +1,1 @@
+Process nº: 11; [2, -1, -1, 0]1; ERROR! 3; [1, 0, 0, 0]4; [1, -1, -1, 0]5; [1, 0, 0, 0]5; ERROR! 7; [2, -1, -1, 0]8; [1, -1, -1, 0]8; ERROR! 10; [2, -1, -1, 0]Process nº: 20; ERROR! 1; ERROR! 2; ERROR! 4; [1, 0, 0, 0, 0, 0]4; ERROR! 5; ERROR! 6; ERROR! 7; ERROR! 8; ERROR! 9; ERROR! 10; ERROR! 11; ERROR! 12; ERROR! 
